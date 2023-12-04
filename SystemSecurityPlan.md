@@ -22,9 +22,9 @@
 
 	c. System Administrator: Mr. SysAdmin
 
-7. **Information System Operational Status: Development**
+7. **Information System Operational Status:** Development
 
-8. **Information System Type: General Support System**
+8. **Information System Type:** General Support System
 
 9. **General system Description/Purpose:**
 	This standalone system is used for receiving media from public agencies outside of the Air Force. This media contains data that is UNCLASSIFIED, and it does not process PII, PHI, or Controlled Unclassified Information (CUI). Data types processed on this system include Microsoft Word and Excel documents, as well as Adobe PDF files.
@@ -43,7 +43,7 @@
     • Federal Information Security Management Act (FISMA)
     • NIST SP 800-37: Risk Management Framework
 
-13. **Minimum Security Controls:** Reference Appendix A for full list of controls.
+13. **Minimum Security Controls:** Reference file SecurityControls.md 
 
 14: **Information System Security Plan Completion Date:**
 

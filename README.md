@@ -9,3 +9,4 @@ The Federal Information Processing Standard (FIPS) 200, Minimum Security Require
 The Federal Information Security Management Act (FISMA) requires compliance with minimum security requirements identified in FIPS 200, and the development of a formal system security plan (SSP). Compliance with FIPS 200 is required for information systems within the federal government, and optionally available for use on systems outside of the federal government.
 
 A system security plan (SSP) should be complete prior to accreditation of a system and placing it in production. An SSP is also a living document, which should be updated and routinely reviewed. A plan of action and milestones (POAM) should accompany the SSP. The accrediting official reviews the SSP and POAM, and assesses the risks when authorizing or denying the accreditation of a system.
+
