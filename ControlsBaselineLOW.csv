@@ -1,0 +1,150 @@
+Control Identifier,Control (or Control Enhancement) Name
+AC-1,Policy and Procedures
+AC-2,Account Management
+AC-3,Access Enforcement
+AC-7,Unsuccessful Logon Attempts
+AC-8,System Use Notification
+AC-14,Permitted Actions Without Identification or Authentication
+AC-17,Remote Access
+AC-18,Wireless Access
+AC-19,Access Control for Mobile Devices
+AC-20,Use of External Systems
+AC-22,Publicly Accessible Content
+AT-1,Policy and Procedures
+AT-2,Literacy Training and Awareness
+AT-2(2),Literacy Training and Awareness | Insider Threat
+AT-3,Role-based Training
+AT-4,Training Records
+AU-1,Policy and Procedures
+AU-2,Event Logging
+AU-3,Content of Audit Records
+AU-4,Audit Log Storage Capacity
+AU-5,Response to Audit Logging Process Failures
+AU-6,"Audit Record Review, Analysis, and Reporting"
+AU-8,Time Stamps
+AU-9,Protection of Audit Information
+AU-11,Audit Record Retention
+AU-12,Audit Record Generation
+CA-1,Policy and Procedures
+CA-2,Control Assessments
+CA-3,Information Exchange
+CA-5,Plan of Action and Milestones
+CA-6,Authorization
+CA-7,Continuous Monitoring
+CA-7(4),Continuous Monitoring | Risk Monitoring
+CA-9,Internal System Connections
+CM-1,Policy and Procedures
+CM-2,Baseline Configuration
+CM-4,Impact Analyses
+CM-5,Access Restrictions for Change
+CM-6,Configuration Settings
+CM-7,Least Functionality
+CM-8,System Component Inventory
+CM-10,Software Usage Restrictions
+CM-11,User-installed Software
+CP-1,Policy and Procedures
+CP-2,Contingency Plan
+CP-3,Contingency Training
+CP-4,Contingency Plan Testing
+CP-9,System Backup
+CP-10,System Recovery and Reconstitution
+IA-1,Policy and Procedures
+IA-2,Identification and Authentication (organizational Users)
+IA-2(1),Identification and Authentication (organizational Users) | Multi-factor Authentication to Privileged Accounts
+IA-2(2),Identification and Authentication (organizational Users) | Multi-factor Authentication to Non-privileged Accounts
+IA-2(8),Identification and Authentication (organizational Users) | Access to Accounts — Replay Resistant
+IA-2(12),Identification and Authentication (organizational Users) | Acceptance of PIV Credentials
+IA-4,Identifier Management
+IA-5,Authenticator Management
+IA-5(1),Authenticator Management | Password-based Authentication
+IA-6,Authentication Feedback
+IA-7,Cryptographic Module Authentication
+IA-8,Identification and Authentication (non-organizational Users)
+IA-8(1),Identification and Authentication (non-organizational Users) | Acceptance of PIV Credentials from Other Agencies
+IA-8(2),Identification and Authentication (non-organizational Users) | Acceptance of External Authenticators
+IA-8(4),Identification and Authentication (non-organizational Users) | Use of Defined Profiles
+IA-11,Re-authentication
+IR-1,Policy and Procedures
+IR-2,Incident Response Training
+IR-4,Incident Handling
+IR-5,Incident Monitoring
+IR-6,Incident Reporting
+IR-7,Incident Response Assistance
+IR-8,Incident Response Plan
+MA-1,Policy and Procedures
+MA-2,Controlled Maintenance
+MA-4,Nonlocal Maintenance
+MA-5,Maintenance Personnel
+MP-1,Policy and Procedures
+MP-2,Media Access
+MP-6,Media Sanitization
+MP-7,Media Use
+PE-1,Policy and Procedures
+PE-2,Physical Access Authorizations
+PE-3,Physical Access Control
+PE-6,Monitoring Physical Access
+PE-8,Visitor Access Records
+PE-12,Emergency Lighting
+PE-13,Fire Protection
+PE-14,Environmental Controls
+PE-15,Water Damage Protection
+PE-16,Delivery and Removal
+PL-1,Policy and Procedures
+PL-2,System Security and Privacy Plans
+PL-4,Rules of Behavior
+PL-4(1),Rules of Behavior | Social Media and External Site/application Usage Restrictions
+PL-10,Baseline Selection
+PL-11,Baseline Tailoring
+PS-1,Policy and Procedures
+PS-2,Position Risk Designation
+PS-3,Personnel Screening
+PS-4,Personnel Termination
+PS-5,Personnel Transfer
+PS-6,Access Agreements
+PS-7,External Personnel Security
+PS-8,Personnel Sanctions
+PS-9,Position Descriptions
+RA-1,Policy and Procedures
+RA-2,Security Categorization
+RA-3,Risk Assessment
+RA-3(1),Risk Assessment | Supply Chain Risk Assessment
+RA-5,Vulnerability Monitoring and Scanning
+RA-5(2),Vulnerability Monitoring and Scanning | Update Vulnerabilities to Be Scanned
+RA-5(11),Vulnerability Monitoring and Scanning | Public Disclosure Program
+RA-7,Risk Response
+SA-1,Policy and Procedures
+SA-2,Allocation of Resources
+SA-3,System Development Life Cycle
+SA-4,Acquisition Process
+SA-4(10),Acquisition Process | Use of Approved PIV Products
+SA-5,System Documentation
+SA-8,Security and Privacy Engineering Principles
+SA-9,External System Services
+SA-22,Unsupported System Components
+SC-1,Policy and Procedures
+SC-5,Denial-of-service Protection
+SC-7,Boundary Protection
+SC-12,Cryptographic Key Establishment and Management
+SC-13,Cryptographic Protection
+SC-15,Collaborative Computing Devices and Applications
+SC-20,Secure Name/address Resolution Service (authoritative Source)
+SC-21,Secure Name/address Resolution Service (recursive or Caching Resolver)
+SC-22,Architecture and Provisioning for Name/address Resolution Service
+SC-39,Process Isolation
+SI-1,Policy and Procedures
+SI-2,Flaw Remediation
+SI-3,Malicious Code Protection
+SI-4,System Monitoring
+SI-5,"Security Alerts, Advisories, and Directives"
+SI-12,Information Management and Retention
+SR-1,Policy and Procedures
+SR-2,Supply Chain Risk Management Plan
+SR-2(1),Supply Chain Risk Management Plan | Establish SCRM Team
+SR-3,Supply Chain Controls and Processes
+SR-5,"Acquisition Strategies, Tools, and Methods"
+SR-8,Notification Agreements
+SR-10,Inspection of Systems or Components
+SR-11,Component Authenticity
+SR-11(1),Component Authenticity | Anti-counterfeit Training
+SR-11(2),Component Authenticity | Configuration Control for Component Service and Repair
+SR-12,Component Disposal
