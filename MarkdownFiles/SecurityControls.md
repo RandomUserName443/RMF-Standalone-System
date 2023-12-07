@@ -12,7 +12,7 @@ A true System Security Plan (SSP) would not have a list of controls copied and p
 ### AC-1 Policy and Procedures 
 
 	a. Develop, document, and disseminate to [assignment: organization-defined personnel or roles]:
-	
+
 		1. [Selection (one or more): organization-level; mission/business process-level; system-level] access control policy that:
 
 			* Addresses purpose, scope, roles, responsibilities, management commitment, coordinating among orgnizational entities, and compliance; and
@@ -30,8 +30,56 @@ A true System Security Plan (SSP) would not have a list of controls copied and p
 
 ### AC-2 Account Management
 
+	a. Define and document the types of accounts allowed and specifically prohibited for use
+	within the system;
 
+	b. Assign account managers;
 
+	c. Require [Assignment: organization-defined prerequisites and criteria] for group and role
+	membership;
+
+	d. Specify:
+
+		1. Authorized users of the system;
+
+		2. Group and role membership; and
+
+		3. Access authorizations (i.e., privileges) and [Assignment: organization-defined attributes
+		(as required)] for each account;
+
+	e. Require approvals by [Assignment: organization-defined personnel or roles] for requests to
+	create accounts;
+
+	f. Create, enable, modify, disable, and remove accounts in accordance with [Assignment:
+	organization-defined policy, procedures, prerequisites, and criteria];
+
+	g. Monitor the use of accounts;
+
+	h. Notify account managers and [Assignment: organization-defined personnel or roles] within:
+
+		1. [Assignment: organization-defined time period] when accounts are no longer required;
+
+		2. [Assignment: organization-defined time period] when users are terminated or
+		transferred; and
+
+		3. [Assignment: organization-defined time period] when system usage or need-to-know
+		changes for an individual;
+
+	i. Authorize access to the system based on:
+
+		1. A valid access authorization;
+
+		2. Intended system usage; and
+
+		3. [Assignment: organization-defined attributes (as required)];
+
+	j. Review accounts for compliance with account management requirements [Assignment:
+	organization-defined frequency];
+
+	k. Establish and implement a process for changing shared or group account authenticators (if
+	deployed) when individuals are removed from the group; and
+
+	l. Align account management processes with personnel termination and transfer processes.
 
 ### AC-3 Access Enforcement
 
