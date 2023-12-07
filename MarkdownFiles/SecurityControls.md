@@ -83,56 +83,207 @@ A true System Security Plan (SSP) would not have a list of controls copied and p
 
 ### AC-3 Access Enforcement
 
+Enforce approved authorizations for logical access to information and system resources
+in accordance with applicable access control policies. (controling access between subjects and objects, such as role-based access control)
+
 ### AC-7 Unsuccessful Logon Attempts
 
+	a. Enforce a limit of [Assignment: organization-defined number] consecutive invalid logon
+	attempts by a user during a [Assignment: organization-defined time period]; and
 
+	b. Automatically [Selection (one or more): lock the account or node for an [Assignment:
+	organization-defined time period]; lock the account or node until released by an
+	administrator; delay next logon prompt per [Assignment: organization-defined delay
+	algorithm]; notify system administrator; take other [Assignment: organization-defined
+	action]] when the maximum number of unsuccessful attempts is exceeded.
 
 ### AC-8 System Use Notification
 
+	a. Display [Assignment: organization-defined system use notification message or banner] to
+	users before granting access to the system that provides privacy and security notices
+	consistent with applicable laws, executive orders, directives, regulations, policies, standards,
+	and guidelines and state that:
 
+		1. Users are accessing a U.S. Government system;
+
+		2. System usage may be monitored, recorded, and subject to audit;
+
+		3. Unauthorized use of the system is prohibited and subject to criminal and civil penalties;
+		and
+
+		4. Use of the system indicates consent to monitoring and recording;
+
+	b. Retain the notification message or banner on the screen until users acknowledge the usage
+	conditions and take explicit actions to log on to or further access the system; and
+
+	c. For publicly accessible systems:
+
+		1. Display system use information [Assignment: organization-defined conditions], before
+		granting further access to the publicly accessible system;
+
+		2. Display references, if any, to monitoring, recording, or auditing that are consistent with
+		privacy accommodations for such systems that generally prohibit those activities; and
+
+		3. Include a description of the authorized uses of the system.
 
 ### AC-14 Permitted Actions Without Identification or Authentication
 
+	a. Identify [Assignment: organization-defined user actions] that can be performed on the
+	system without identification or authentication consistent with organizational mission and
+	business functions; and
 
+	b. Document and provide supporting rationale in the security plan for the system, user actions
+	not requiring identification or authentication.
 
 ### AC-17 Remote Access
 
+	a. Establish and document usage restrictions, configuration/connection requirements, and
+	implementation guidance for each type of remote access allowed; and
+
+	b. Authorize each type of remote access to the system prior to allowing such connections.
+
 ### AC-18 Wireless Access
+
+	a. Establish configuration requirements, connection requirements, and implementation
+	guidance for each type of wireless access; and
+
+	b. Authorize each type of wireless access to the system prior to allowing such connections.
 
 ### AC-19 Access Control for Mobile Devices
 
+	a. Establish configuration requirements, connection requirements, and implementation
+	guidance for organization-controlled mobile devices, to include when such devices are
+	outside of controlled areas; and
+
+	b. Authorize the connection of mobile devices to organizational systems.
+
 ### AC-20 Use of External Systems
+
+	a. [Selection (one or more): Establish [Assignment: organization-defined terms and conditions];
+	Identify [Assignment: organization-defined controls asserted to be implemented on external
+	systems]], consistent with the trust relationships established with other organizations
+	owning, operating, and/or maintaining external systems, allowing authorized individuals to:
+		
+		1. Access the system from external systems; and
+
+		2. Process, store, or transmit organization-controlled information using external systems;
+		or
+
+	b. Prohibit the use of [Assignment: organizationally-defined types of external systems].
 
 ### AC-22 Publicly Accessible Content
 
+	a. Designate individuals authorized to make information publicly accessible;
+
+	b. Train authorized individuals to ensure that publicly accessible information does not contain
+	nonpublic information;
+
+	c. Review the proposed content of information prior to posting onto the publicly accessible
+	system to ensure that nonpublic information is not included; and
+
+	d. Review the content on the publicly accessible system for nonpublic information
+	[Assignment: organization-defined frequency] and remove such information, if discovered.
+
 ## II. Awareness and Training
 
-III. Audit and Accountability
+### AT-1 Policy and Procedures
 
-IV. Certification, Accreditation, and Security Assessment
+	a. Develop, document, and disseminate to [Assignment: organization-defined personnel or
+	roles]:
 
-V. Configuration Management
+		1. [Selection (one or more): Organization-level; Mission/business process-level; System-
+		level] awareness and training policy that:
 
-VI. Contingency Planning
+		(a) Addresses purpose, scope, roles, responsibilities, management commitment,
+		coordination among organizational entities, and compliance; and
 
-VII. Identification and Authentication
+		(b) Is consistent with applicable laws, executive orders, directives, regulations, policies,
+		standards, and guidelines; and
 
-VIII. Incident Response
+		2. Procedures to facilitate the implementation of the awareness and training policy and
+		the associated awareness and training controls;
 
-IX. Maintenance
+	b. Designate an [Assignment: organization-defined official] to manage the development,
+	documentation, and dissemination of the awareness and training policy and procedures; and
 
-X. Media Protection
+	c. Review and update the current awareness and training:
 
-XI. Physical and Environmental Protection
+		1. Policy [Assignment: organization-defined frequency] and following [Assignment:
+		organization-defined events]; and
 
-XII. Planning
+		2. Procedures [Assignment: organization-defined frequency] and following [Assignment:
+		organization-defined events].
 
-XIII. Personnel Security
+### AT-2 Literacy Training and Awareness
 
-XIV. Risk Assessment
+	a. Provide security and privacy literacy training to system users (including managers, senior
+	executives, and contractors):
 
-XV. Systems and Services Acquisition
+		1. As part of initial training for new users and [Assignment: organization-defined
+		frequency] thereafter; and
 
-XVI. System and Communications Protection
+		2. When required by system changes or following [Assignment: organization-defined
+		events];
 
-XVII. System and Information Integrity.
+	b. Employ the following techniques to increase the security and privacy awareness of system
+	users [Assignment: organization-defined awareness techniques];
+
+	c. Update literacy training and awareness content [Assignment: organization-defined
+	frequency] and following [Assignment: organization-defined events]; and
+
+	d. Incorporate lessons learned from internal or external security incidents or breaches into
+	literacy training and awareness techniques.
+
+### AT-3 Role-Based Training
+
+	a. Provide role-based security and privacy training to personnel with the following roles and
+	responsibilities: [Assignment: organization-defined roles and responsibilities]:
+
+		1. Before authorizing access to the system, information, or performing assigned duties,
+		and [Assignment: organization-defined frequency] thereafter; and
+
+		2. When required by system changes;
+
+	b. Update role-based training content [Assignment: organization-defined frequency] and
+	following [Assignment: organization-defined events]; and
+
+	c. Incorporate lessons learned from internal or external security incidents or breaches into
+	role-based training.
+
+### AT-4 Training Records
+
+	a. Document and monitor information security and privacy training activities, including security
+	and privacy awareness training and specific role-based security and privacy training; and
+
+	b. Retain individual training records for [Assignment: organization-defined time period].
+
+
+## III. Audit and Accountability
+
+## IV. Certification, Accreditation, and Security Assessment
+
+## V. Configuration Management
+
+## VI. Contingency Planning
+
+## VII. Identification and Authentication
+
+## VIII. Incident Response
+
+## IX. Maintenance
+
+## X. Media Protection
+
+## XI. Physical and Environmental Protection
+
+## XII. Planning
+
+## XIII. Personnel Security
+
+## XIV. Risk Assessment
+
+## XV. Systems and Services Acquisition
+
+## XVI. System and Communications Protection
+
+## XVII. System and Information Integrity.
