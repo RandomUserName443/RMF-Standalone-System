@@ -60,7 +60,7 @@ Potential impact is low since the loss of confidentiality, integrity, or availab
     * Federal Information Security Management Act (FISMA)
     * NIST SP 800-37: Risk Management Framework
 
-13. **Minimum Security Controls:** [Security Controls Baseline (LOW)](./Artifacts/ControlsBaselineLOW.csv)
+13. **Minimum Security Controls:** [Security Controls Baseline (LOW)](../Artifacts/ControlsBaselineLOW.csv)
 
 14. **Information System Security Plan Completion Date:**
 
