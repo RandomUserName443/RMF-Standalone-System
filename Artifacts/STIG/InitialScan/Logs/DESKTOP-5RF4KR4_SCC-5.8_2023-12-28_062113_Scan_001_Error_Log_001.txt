@@ -1,0 +1,23 @@
+SCC - 5.8 on host DESKTOP-5RF4KR4 running Microsoft Windows 10 Pro 22H2 (AMD64 Family 23 Model 113 Stepping 0)
+
+    Time	 Level	Message
+
+06:21:19	WARN	
+Manual Question Auto-Answer file for MS_Windows_10_STIG, version: 2.8.4 was not found in:
+C:\Users\user\Desktop\SCAP Tool\scc-5.8_Windows\scc-5.8_Windows\scc_5.8\Resources\Content\Manual_Questions\Completed_Files\
+
+	All manual checks will be marked as 'Not Reviewed'.
+
+	* For CSCC Command Line Usage: Manual Question Auto-Answer templates for DISA STIG manual
+	checks can be found in:C:\Users\user\Desktop\SCAP Tool\scc-5.8_Windows\scc-5.8_Windows\scc_5.8\Resources\Content\Manual_Questions\Templates\
+* For SCC GUI Usage:  Manual Question Auto-Answer results for DISA STIG manual checks can
+	be created by clicking on the 'Manual Questions' button in 'Content Details'
+
+	   Target System  :     DESKTOP-5RF4KR4
+	   Stream Name :        MS_Windows_10_STIG
+	   SCAP Stream:         MS_Windows_10_STIG
+	   Profile ID:          xccdf_mil.disa.stig_profile_MAC-1_Sensitive
+	   Definition ID:       oval:mil.disa.stig.windows:def:1
+	   Test ID:             oval:mil.disa.stig.windows:tst:102
+	   State ID:            oval:mil.disa.stig.windows:ste:102
+

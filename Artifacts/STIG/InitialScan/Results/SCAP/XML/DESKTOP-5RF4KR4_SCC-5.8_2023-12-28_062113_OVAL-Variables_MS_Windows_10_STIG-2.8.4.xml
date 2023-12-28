@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SessionID:2023-12-28_062113,HostName:DESKTOP-5RF4KR4,FileType:OVAL Variables,StreamName:MS_Windows_10_STIG-2.8.4,ErrorCount:0,WarnCount:1 -->
+
+<oval-var:oval_variables xsi:schemaLocation="http://oval.mitre.org/XMLSchema/oval-common-5 https://raw.githubusercontent.com/OVALProject/Language/5.11.2/schemas/oval-common-schema.xsd http://oval.mitre.org/XMLSchema/oval-variables-5 https://raw.githubusercontent.com/OVALProject/Language/5.11.2/schemas/oval-variables-schema.xsd" xmlns:oval-var="http://oval.mitre.org/XMLSchema/oval-variables-5" xmlns:oval="http://oval.mitre.org/XMLSchema/oval-common-5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <oval-var:generator>
+            <oval:product_name>SCAP Compliance Checker</oval:product_name>
+            <oval:product_version>5.8</oval:product_version>
+            <oval:schema_version>5.11.2</oval:schema_version>
+            <oval:timestamp>2023-12-28T06:21:24</oval:timestamp>
+      </oval-var:generator>
+      <oval-var:variables>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393200">
+                  <oval-var:value>3</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393300">
+                  <oval-var:value>900</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393400">
+                  <oval-var:value>24</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393500">
+                  <oval-var:value>5184000</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393600">
+                  <oval-var:value>86400</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393800">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:393900">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:405400">
+                  <oval-var:value>32768</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.stig.windows:var:419900">
+                  <oval-var:value>1024000</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:405700">
+                  <oval-var:value>32768</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:417600">
+                  <oval-var:value>2</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:417700">
+                  <oval-var:value>2</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:417800">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:418200">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:400200">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:400700">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:400900">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:402400">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:402500">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.stig.windows:var:402900">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:403400">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:404100">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:404200">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:404300">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:404700">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:405900">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:406000">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:406600">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:406800">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:406900">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:407000">
+                  <oval-var:value>3</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:407700">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.stig.windows:var:12900">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.stig.windows:var:13000">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:414300">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:414800">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:415100">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:415200">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:415300">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:415400">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:415500">
+                  <oval-var:value>30</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:415600">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:416700">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:416900">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:417100">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:419000">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:419100">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:419300">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:419700">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:420100">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:420200">
+                  <oval-var:value>0</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:420300">
+                  <oval-var:value>2147483640</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:420400">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:420600">
+                  <oval-var:value>5</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:420700">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:421300">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:421500">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:421600">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:421700">
+                  <oval-var:value>2</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:421900">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:422100">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:422200">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+            <oval-var:variable comment="" datatype="string" id="oval:mil.disa.fso.windows:var:422400">
+                  <oval-var:value>1</oval-var:value>
+            </oval-var:variable>
+      </oval-var:variables>
+</oval-var:oval_variables>
